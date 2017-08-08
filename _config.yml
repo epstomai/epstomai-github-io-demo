@@ -1,2 +1,3 @@
-name: 广重36号 ~ 窗外的风景色
+name: knia
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
